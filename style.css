@@ -21,11 +21,14 @@
 }
 /* home section */
 
+.landing {
+    height: auto;
+}
 .caption {
   width: 100%;
   max-width: 100%;
   position: absolute;
-  top: 40%;
+  top: 60%;
   text-transform: uppercase;
   color: #fff;
   z-index: 1;
